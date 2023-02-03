@@ -22,7 +22,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 ```
-https://NODEIPADRESINIZ:8080
+https://IpAdresi:8080
 ```
 
 ## Metamaska ekle
