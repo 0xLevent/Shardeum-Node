@@ -40,9 +40,9 @@ Block Explorer URL : https://explorer-sphinx.shardeum.org/
 
 ##Faucet
 
-Discord: https://discord.gg/shardeum
+[Discord](https://discord.gg/shardeum)
 
-Site: https://faucet-sphinx.shardeum.org/
+[Site](https://faucet-sphinx.shardeum.org/)
 
 
 
