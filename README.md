@@ -1,6 +1,9 @@
 #### Shardeum-Node
 
 
+##Sistem Gereksinimleri##
+
+
 ```
 sudo apt update
 ```
