@@ -1,7 +1,7 @@
 # Shardeum-Node
 
 
-### Sistem Gereksinimleri
+## Sistem Gereksinimleri
 Ram: 16GB
 SSD: 60Gb
 
