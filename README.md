@@ -5,6 +5,9 @@
 Ram: 16GB
 SSD: 60Gb
 
+| Başlık1 | Başlık2 | Başlık3 |
+
+
 
 ```
 sudo apt update
