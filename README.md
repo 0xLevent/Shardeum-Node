@@ -6,6 +6,8 @@ Ram: 16GB
 SSD: 60Gb
 
 | Başlık1 | Başlık2 | Başlık3 |
+| —— | —— | —— |
+| Satır 1 Sütun 1 | Satır 1 Sütun 2 | Satır 1 Sütun 3 |
 
 
 
