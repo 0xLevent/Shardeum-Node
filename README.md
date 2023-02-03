@@ -17,9 +17,6 @@ sudo apt update
 sudo apt install docker.io
 ```
 ```
-docker --version
-```
-```
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 ```
 ```
@@ -30,6 +27,15 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 ```
 ```
 https://IpAdresi:8080
+```
+```
+cd .shardeum
+```
+```
+./shell.sh
+```
+```
+operator-cli gui start
 ```
 
 ## Metamaska ekle
