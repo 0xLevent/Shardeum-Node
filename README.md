@@ -39,6 +39,6 @@ Discord: https://discord.gg/shardeum
 
 Site: https://faucet-sphinx.shardeum.org/
 
-https://<https://faucet-sphinx.shardeum.org/>
+https://<faucet-sphinx.shardeum.org/>
 
 
