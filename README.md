@@ -30,12 +30,12 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 https://IpAdresi:8080
 ```
 
-## Metamaska ekle
-Ağ : Shardeum Sphinx 1.X
-New RPC URL : https://sphinx.shardeum.org/
-Chain ID : 8082
-symbol : SHM
-Block Explorer URL : https://explorer-sphinx.shardeum.org/
+####Metamaska ekle
+#Ağ : Shardeum Sphinx 1.X
+#New RPC URL : https://sphinx.shardeum.org/
+#Chain ID : 8082
+#symbol : SHM
+#Block Explorer URL : https://explorer-sphinx.shardeum.org/
 
 
 ##Faucet
