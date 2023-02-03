@@ -28,13 +28,10 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 ```
 https://IpAdresi:8080
 ```
+
 ```
 cd .shardeum
-```
-```
 ./shell.sh
-```
-```
 operator-cli gui start
 ```
 
