@@ -1,7 +1,7 @@
-#### Shardeum-Node
+# Shardeum-Node
 
 
-## Sistem Gereksinimleri
+### Sistem Gereksinimleri
 Ram: 16GB
 SSD: 60Gb
 
@@ -31,14 +31,14 @@ https://IpAdresi:8080
 ```
 
 #### Metamaska ekle
-# Ağ : Shardeum Sphinx 1.X
-# New RPC URL : https://sphinx.shardeum.org/
-# Chain ID : 8082
-# symbol : SHM
-# Block Explorer URL : https://explorer-sphinx.shardeum.org/
+## Ağ : Shardeum Sphinx 1.X
+## New RPC URL : https://sphinx.shardeum.org/
+## Chain ID : 8082
+## symbol : SHM
+## Block Explorer URL : https://explorer-sphinx.shardeum.org/
 
 
-##Faucet
+## Faucet
 
 [Discord](https://discord.gg/shardeum)
 
